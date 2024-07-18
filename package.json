@@ -1,0 +1,14 @@
+{
+  "name": "opensource-page",
+  "version": "1.0.0",
+  "description": "Open-source project catalog website.",
+  "main": "index.html",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
